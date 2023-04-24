@@ -12,4 +12,4 @@ This assignment is completed once a simple calendar application has been develop
 
 ## Website Deployment
 
-Link: [Dail Planner]()
+Link: [Daily Planner](https://mrgnoblennon.github.io/Daily-Planner/)
