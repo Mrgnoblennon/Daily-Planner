@@ -1,4 +1,4 @@
-# Assignment 5 - Daily Planner
+# Daily Planner
 
 Utilize JQuery to update HTML and CSS
 
